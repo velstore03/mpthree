@@ -1,1 +1,392 @@
-
+[
+{
+"sname" : "Om Shree Sai",
+"stitle" : "Sai Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBaba/store/Om Shree Sai.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBaba/img/1.jpg"
+},
+{
+"sname" : "Sai Damodaram",
+"stitle" : "Sai Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBaba/store/Sai Damodaram.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBaba/img/2.jpg"
+},
+{
+"sname" : "Sai Ram Sai Ram",
+"stitle" : "Sai Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBaba/store/Sai Ram Sai Ram.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBaba/img/3.jpg"
+},
+{
+"sname" : "Sai Ram Saishyam",
+"stitle" : "Sai Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBaba/store/Sai Ram Saishyam.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBaba/img/4.jpg"
+},
+{
+"sname" : "Om Namo Sainathaya",
+"stitle" : "Sai Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBaba/store/Om Namo Sainathaya.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBaba/img/5.jpg"
+},
+{
+"sname" : "Om Sai Namo Namaha",
+"stitle" : "Sai Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBaba/store/Om Sai Namo Namaha.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBaba/img/6.jpg"
+},
+{
+"sname" : "Om Sairam",
+"stitle" : "Sai Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBaba/store/Om Sairam.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBaba/img/7.jpg"
+},
+{
+"sname" : "AahaDhanyulame",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/AahaDhanyulame.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/1.jpg"
+},
+{
+"sname" : "Aarathi",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Aarathi.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/2.jpg"
+},
+{
+"sname" : "Baba Sai Baba",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Baba Sai Baba.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/3.jpg"
+},
+{
+"sname" : "Cherukoneevayya",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Cherukoneevayya.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/4.jpg"
+},
+{
+"sname" : "Datthatreyuni",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Datthatreyuni.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/5.jpg"
+},
+{
+"sname" : "Deivam",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Deivam.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/6.jpg"
+},
+{
+"sname" : "Ententa Daya Needi",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Ententa Daya Needi.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/1.jpg"
+},
+{
+"sname" : "Hey Pandu ranga",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Hey Pandu ranga.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/2.jpg"
+},
+{
+"sname" : "Jagamerigina Jagadguru",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/JagameriginaJagadguru.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/3.jpg"
+},
+{
+"sname" : "Jai Shiridi",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Jai Shiridi.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/4.jpg"
+},
+{
+"sname" : "Kadilindi Sri Sai Pallaki",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Kadilindi Sri Sai Pallaki.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/5.jpg"
+},
+{
+"sname" : "Le Le Baba",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Le Le Baba.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/6.jpg"
+},
+{
+"sname" : "Maa Paapalu",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Maa Paapalu.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/1.jpg"
+},
+{
+"sname" : "Nee Padamula",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Nee Padamula.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/2.jpg"
+},
+{
+"sname" : "Ninnu Ganee Saranamanee",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Ninnu Ganee Saranamanee.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/3.jpg"
+},
+{
+"sname" : "Nuvu Leka",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Nuvu Leka.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/4.jpg"
+},
+{
+"sname" : "Okkade Devudu",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Okkade Devudu.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/5.jpg"
+},
+{
+"sname" : "Ramanavami",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Ramanavami.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/6.jpg"
+},
+{
+"sname" : "Sai Ante Thalli",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Sai Ante Thalli.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/1.jpg"
+},
+{
+"sname" : "Sai Baba Sai Baba",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Sai Baba Sai Baba.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/2.jpg"
+},
+{
+"sname" : "Sai Deva",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Sai Deva.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/3.jpg"
+},
+{
+"sname" : "Sai Divya Roopam",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Sai Divya Roopam.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/4.jpg"
+},
+{
+"sname" : "Sai Rama Sai Rama",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Sai Rama Sai Rama.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/5.jpg"
+},
+{
+"sname" : "Sairam Sairam",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Sairam Sairam.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/6.jpg"
+},
+{
+"sname" : "Saranu Saranu",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Saranu Saranu.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/1.jpg"
+},
+{
+"sname" : "Shiridi Lopali Deivamnene",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Shiridi Lopali Deivamnene.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/2.jpg"
+},
+{
+"sname" : "Shiridiyae Maa Pandaripuramu",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Shiridiyae Maa Pandaripuramu.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/3.jpg"
+},
+{
+"sname" : "Sirula Nosage",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Sirula Nosage.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/4.jpg"
+},
+{
+"sname" : "Vasthunna Baba",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/Vasthunna Baba.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/5.jpg"
+},
+{
+"sname" : "Akhilanda koti",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/akhilanda koti.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/6.jpg"
+},
+{
+"sname" : "Manase harathi",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/manase harathi.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/1.jpg"
+},
+{
+"sname" : "Sai saranam",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/sai saranam.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/2.jpg"
+},
+{
+"sname" : "Sai ram Sai shyam",
+"stitle" : "Telugu Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/store/sairamsaishyam.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaTelugu/img/3.jpg"
+},
+{
+"sname" : "Godhavari",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Godhavari.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/1.jpg"
+},
+{
+"sname" : "Jai Jai",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/JaiJai.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/2.jpg"
+},
+{
+"sname" : "Jholi",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Jholi.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/3.jpg"
+},
+{
+"sname" : "Lekar",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Lekar.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/4.jpg"
+},
+{
+"sname" : "Om Jai",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/OmJai.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/5.jpg"
+},
+{
+"sname" : "Om sai",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Omsai.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/6.jpg"
+},
+{
+"sname" : "Om Sai Shri",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/OmSaiShri.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/1.jpg"
+},
+{
+"sname" : "Sai Baba Dhoop",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/saibabadhoop.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/2.jpg"
+},
+{
+"sname" : "Sai Bol",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/SaiBol.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/3.jpg"
+},
+{
+"sname" : "Sai Chalisa",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/SaiChalisa.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/4.jpg"
+},
+{
+"sname" : "sai ram sai shyam",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/sairamsaishyam.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/5.jpg"
+},
+{
+"sname" : "Sai Se Lou Lagale",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/SaiSeLouLagale.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/6.jpg"
+},
+{
+"sname" : "Sai Se Mujhe",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/SaiSeMujhe.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/1.jpg"
+},
+{
+"sname" : "Sai Shiv",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/SaiShiv.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/2.jpg"
+},
+{
+"sname" : "Shirdi wala",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Shirdiwala.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/3.jpg"
+},
+{
+"sname" : "shiridi wale",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/shiridiwale.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/4.jpg"
+},
+{
+"sname" : "Aarti",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Aarti.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/5.jpg"
+},
+{
+"sname" : "Aarti soukhya",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Aartisoukhya.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/6.jpg"
+},
+{
+"sname" : "Ashtottar",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Ashtottar.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/1.jpg"
+},
+{
+"sname" : "Badi Door",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/BadiDoor.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/2.jpg"
+},
+{
+"sname" : "Chahe Ram",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/ChaheRam.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/3.jpg"
+},
+{
+"sname" : "Chanda Mein",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/ChandaMein.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/4.jpg"
+},
+{
+"sname" : "Deewana",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Deewana.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/5.jpg"
+},
+{
+"sname" : "Dekho",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Dekho.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/6.jpg"
+},
+{
+"sname" : "God",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/God.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/1.jpg"
+}
+]
