@@ -1,1 +1,152 @@
-
+[
+{
+"sname" : "Godhavari",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Godhavari.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/1.jpg"
+},
+{
+"sname" : "Jai Jai",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/JaiJai.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/2.jpg"
+},
+{
+"sname" : "Jholi",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Jholi.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/3.jpg"
+},
+{
+"sname" : "Lekar",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Lekar.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/4.jpg"
+},
+{
+"sname" : "Om Jai",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/OmJai.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/5.jpg"
+},
+{
+"sname" : "Om sai",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Omsai.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/6.jpg"
+},
+{
+"sname" : "Om Sai Shri",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/OmSaiShri.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/1.jpg"
+},
+{
+"sname" : "Sai Baba Dhoop",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/saibabadhoop.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/2.jpg"
+},
+{
+"sname" : "Sai Bol",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/SaiBol.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/3.jpg"
+},
+{
+"sname" : "Sai Chalisa",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/SaiChalisa.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/4.jpg"
+},
+{
+"sname" : "sai ram sai shyam",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/sairamsaishyam.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/5.jpg"
+},
+{
+"sname" : "Sai Se Lou Lagale",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/SaiSeLouLagale.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/6.jpg"
+},
+{
+"sname" : "Sai Se Mujhe",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/SaiSeMujhe.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/1.jpg"
+},
+{
+"sname" : "Sai Shiv",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/SaiShiv.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/2.jpg"
+},
+{
+"sname" : "Shirdi wala",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Shirdiwala.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/3.jpg"
+},
+{
+"sname" : "shiridi wale",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/shiridiwale.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/4.jpg"
+},
+{
+"sname" : "Aarti",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Aarti.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/5.jpg"
+},
+{
+"sname" : "Aarti soukhya",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Aartisoukhya.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/6.jpg"
+},
+{
+"sname" : "Ashtottar",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Ashtottar.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/1.jpg"
+},
+{
+"sname" : "Badi Door",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/BadiDoor.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/2.jpg"
+},
+{
+"sname" : "Chahe Ram",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/ChaheRam.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/3.jpg"
+},
+{
+"sname" : "Chanda Mein",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/ChandaMein.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/4.jpg"
+},
+{
+"sname" : "Deewana",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Deewana.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/5.jpg"
+},
+{
+"sname" : "Dekho",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/Dekho.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/6.jpg"
+},
+{
+"sname" : "God",
+"stitle" : "Hindi Track",
+"slink" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/store/God.mp3",
+"simage" : "https://vel3.velayudhan.me/songs/SaiBabaHindi/img/1.jpg"
+}
+]
